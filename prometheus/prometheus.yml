@@ -1,0 +1,16 @@
+global:
+  scrape_interval: 5s
+
+alerting:
+  alertmanagers:
+    - static_configs:
+      - targets:
+        - "localhost:9093"
+
+rule_files:
+  - 'alert.rule.yml'
+
+scrape_configs:
+  - job_name: "nginx"
+    static_configs:
+      - targets: ['localhost:9113']

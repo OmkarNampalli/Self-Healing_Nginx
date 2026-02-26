@@ -1,0 +1,11 @@
+---
+- name: start Nginx
+  hosts: localhost
+  become: yes
+
+
+  tasks:
+    - name: Nginx start
+      service:
+        name: nginx
+        state: started

@@ -1,0 +1,28 @@
+services:
+  exporter:
+    image: nginx/nginx-prometheus-exporter:latest
+    command:
+      - --nginx.scrape-uri=http://localhost:8080/nginx_status
+    network_mode: host
+
+
+  prometheus:
+    image: prom/prometheus:latest
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --web.listen-address=:9091
+    network_mode: host
+    volumes:
+      - ./prometheus:/etc/prometheus
+    depends_on:
+      - exporter
+
+  alertmanager:
+    image: prom/alertmanager
+    command:
+      - --config.file=/etc/alertmanager/alertmanager.yml
+    network_mode: host
+    volumes:
+      - ./alertmanager.yml:/etc/alertmanager/alertmanager.yml
+
+

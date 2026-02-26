@@ -1,0 +1,10 @@
+groups:
+  - name: 'test-alert'
+    rules:
+      - alert: nginx-stopped
+        expr: nginx_up < 1
+        labels:
+          severity: critical
+        annotations:
+          summary: 'Nginx-stopped'
+          description: 'this is test Alert'

@@ -1,0 +1,311 @@
+2026-02-25 14:03:21,632 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:03:21,632 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:03:46,601 INFO Alert received for localhost:9113
+2026-02-25 14:03:47,577 ERROR ===== FAILED =====
+2026-02-25 14:03:47,577 ERROR 
+2026-02-25 14:03:47,577 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:03:47,577 ERROR ===== END =====
+2026-02-25 14:03:47,577 INFO 127.0.0.1 - - [25/Feb/2026 14:03:47] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:04:06,835 INFO 127.0.0.1 - - [25/Feb/2026 14:04:06] "[31m[1mGET /webhook HTTP/1.1[0m" 405 -
+2026-02-25 14:06:04,824 INFO Alert received for localhost:9113
+2026-02-25 14:06:05,729 ERROR ===== FAILED =====
+2026-02-25 14:06:05,729 ERROR 
+2026-02-25 14:06:05,729 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:05,729 ERROR ===== END =====
+2026-02-25 14:06:05,729 INFO 127.0.0.1 - - [25/Feb/2026 14:06:05] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:05,734 INFO Alert received for localhost:9113
+2026-02-25 14:06:06,495 ERROR ===== FAILED =====
+2026-02-25 14:06:06,495 ERROR 
+2026-02-25 14:06:06,495 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:06,495 ERROR ===== END =====
+2026-02-25 14:06:06,496 INFO 127.0.0.1 - - [25/Feb/2026 14:06:06] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:06,596 INFO Alert received for localhost:9113
+2026-02-25 14:06:07,135 ERROR ===== FAILED =====
+2026-02-25 14:06:07,135 ERROR 
+2026-02-25 14:06:07,135 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:07,135 ERROR ===== END =====
+2026-02-25 14:06:07,135 INFO 127.0.0.1 - - [25/Feb/2026 14:06:07] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:08,275 INFO Alert received for localhost:9113
+2026-02-25 14:06:08,767 ERROR ===== FAILED =====
+2026-02-25 14:06:08,769 ERROR 
+2026-02-25 14:06:08,769 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:08,769 ERROR ===== END =====
+2026-02-25 14:06:08,770 INFO 127.0.0.1 - - [25/Feb/2026 14:06:08] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:10,506 INFO Alert received for localhost:9113
+2026-02-25 14:06:10,982 ERROR ===== FAILED =====
+2026-02-25 14:06:10,982 ERROR 
+2026-02-25 14:06:10,982 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:10,982 ERROR ===== END =====
+2026-02-25 14:06:10,982 INFO 127.0.0.1 - - [25/Feb/2026 14:06:10] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:13,270 INFO Alert received for localhost:9113
+2026-02-25 14:06:13,779 ERROR ===== FAILED =====
+2026-02-25 14:06:13,779 ERROR 
+2026-02-25 14:06:13,779 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:13,779 ERROR ===== END =====
+2026-02-25 14:06:13,779 INFO 127.0.0.1 - - [25/Feb/2026 14:06:13] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:17,134 INFO Alert received for localhost:9113
+2026-02-25 14:06:17,627 ERROR ===== FAILED =====
+2026-02-25 14:06:17,627 ERROR 
+2026-02-25 14:06:17,627 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:17,627 ERROR ===== END =====
+2026-02-25 14:06:17,627 INFO 127.0.0.1 - - [25/Feb/2026 14:06:17] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:20,216 INFO Alert received for localhost:9113
+2026-02-25 14:06:20,688 ERROR ===== FAILED =====
+2026-02-25 14:06:20,688 ERROR 
+2026-02-25 14:06:20,688 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:20,688 ERROR ===== END =====
+2026-02-25 14:06:20,688 INFO 127.0.0.1 - - [25/Feb/2026 14:06:20] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:27,762 INFO Alert received for localhost:9113
+2026-02-25 14:06:28,261 ERROR ===== FAILED =====
+2026-02-25 14:06:28,261 ERROR 
+2026-02-25 14:06:28,261 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:28,262 ERROR ===== END =====
+2026-02-25 14:06:28,262 INFO 127.0.0.1 - - [25/Feb/2026 14:06:28] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:43,187 INFO Alert received for localhost:9113
+2026-02-25 14:06:43,713 ERROR ===== FAILED =====
+2026-02-25 14:06:43,713 ERROR 
+2026-02-25 14:06:43,713 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:06:43,713 ERROR ===== END =====
+2026-02-25 14:06:43,713 INFO 127.0.0.1 - - [25/Feb/2026 14:06:43] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:06:59,865 INFO Alert received for localhost:9113
+2026-02-25 14:07:00,488 ERROR ===== FAILED =====
+2026-02-25 14:07:00,488 ERROR 
+2026-02-25 14:07:00,488 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:07:00,489 ERROR ===== END =====
+2026-02-25 14:07:00,489 INFO 127.0.0.1 - - [25/Feb/2026 14:07:00] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:07:36,647 INFO Alert received for localhost:9113
+2026-02-25 14:07:37,135 ERROR ===== FAILED =====
+2026-02-25 14:07:37,136 ERROR 
+2026-02-25 14:07:37,136 ERROR [ERROR]: the playbook: /path/to/restart-nginx.yml could not be found
+
+2026-02-25 14:07:37,136 ERROR ===== END =====
+2026-02-25 14:07:37,136 INFO 127.0.0.1 - - [25/Feb/2026 14:07:37] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:11:34,173 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:11:34,174 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:11:42,424 INFO Alert received for localhost:9113
+2026-02-25 14:11:43,059 ERROR ===== FAILED =====
+2026-02-25 14:11:43,059 ERROR 
+2026-02-25 14:11:43,059 ERROR [ERROR]: the playbook: /homw/naruto/monitoring/automation.yml could not be found
+
+2026-02-25 14:11:43,059 ERROR ===== END =====
+2026-02-25 14:11:43,060 INFO 127.0.0.1 - - [25/Feb/2026 14:11:43] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:12:01,904 INFO Alert received for localhost:9113
+2026-02-25 14:12:02,427 ERROR ===== FAILED =====
+2026-02-25 14:12:02,427 ERROR 
+2026-02-25 14:12:02,427 ERROR [ERROR]: the playbook: /homw/naruto/monitoring/automation.yml could not be found
+
+2026-02-25 14:12:02,427 ERROR ===== END =====
+2026-02-25 14:12:02,428 INFO 127.0.0.1 - - [25/Feb/2026 14:12:02] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:12:34,218 INFO Alert received for localhost:9113
+2026-02-25 14:12:34,697 ERROR ===== FAILED =====
+2026-02-25 14:12:34,697 ERROR 
+2026-02-25 14:12:34,697 ERROR [ERROR]: the playbook: /homw/naruto/monitoring/automation.yml could not be found
+
+2026-02-25 14:12:34,697 ERROR ===== END =====
+2026-02-25 14:12:34,698 INFO 127.0.0.1 - - [25/Feb/2026 14:12:34] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:13:08,101 INFO Alert received for localhost:9113
+2026-02-25 14:13:08,593 ERROR ===== FAILED =====
+2026-02-25 14:13:08,593 ERROR 
+2026-02-25 14:13:08,593 ERROR [ERROR]: the playbook: /homw/naruto/monitoring/automation.yml could not be found
+
+2026-02-25 14:13:08,593 ERROR ===== END =====
+2026-02-25 14:13:08,594 INFO 127.0.0.1 - - [25/Feb/2026 14:13:08] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:15:57,071 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:15:57,071 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:16:04,829 INFO Alert received for localhost:9113
+2026-02-25 14:16:06,369 ERROR ===== FAILED =====
+2026-02-25 14:16:06,369 ERROR 
+2026-02-25 14:16:06,369 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:06,370 ERROR ===== END =====
+2026-02-25 14:16:06,370 INFO 127.0.0.1 - - [25/Feb/2026 14:16:06] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:06,372 INFO Alert received for localhost:9113
+2026-02-25 14:16:07,254 ERROR ===== FAILED =====
+2026-02-25 14:16:07,254 ERROR 
+2026-02-25 14:16:07,254 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:07,254 ERROR ===== END =====
+2026-02-25 14:16:07,254 INFO 127.0.0.1 - - [25/Feb/2026 14:16:07] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:07,259 INFO Alert received for localhost:9113
+2026-02-25 14:16:07,982 ERROR ===== FAILED =====
+2026-02-25 14:16:07,983 ERROR 
+2026-02-25 14:16:07,983 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:07,983 ERROR ===== END =====
+2026-02-25 14:16:07,983 INFO 127.0.0.1 - - [25/Feb/2026 14:16:07] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:08,150 INFO Alert received for localhost:9113
+2026-02-25 14:16:08,829 ERROR ===== FAILED =====
+2026-02-25 14:16:08,829 ERROR 
+2026-02-25 14:16:08,829 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:08,829 ERROR ===== END =====
+2026-02-25 14:16:08,829 INFO 127.0.0.1 - - [25/Feb/2026 14:16:08] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:09,572 INFO Alert received for localhost:9113
+2026-02-25 14:16:10,928 ERROR ===== FAILED =====
+2026-02-25 14:16:10,928 ERROR 
+2026-02-25 14:16:10,928 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:10,928 ERROR ===== END =====
+2026-02-25 14:16:10,928 INFO 127.0.0.1 - - [25/Feb/2026 14:16:10] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:12,353 INFO Alert received for localhost:9113
+2026-02-25 14:16:12,976 ERROR ===== FAILED =====
+2026-02-25 14:16:12,976 ERROR 
+2026-02-25 14:16:12,976 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:12,976 ERROR ===== END =====
+2026-02-25 14:16:12,976 INFO 127.0.0.1 - - [25/Feb/2026 14:16:12] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:14,407 INFO Alert received for localhost:9113
+2026-02-25 14:16:15,021 ERROR ===== FAILED =====
+2026-02-25 14:16:15,022 ERROR 
+2026-02-25 14:16:15,022 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:15,022 ERROR ===== END =====
+2026-02-25 14:16:15,022 INFO 127.0.0.1 - - [25/Feb/2026 14:16:15] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:21,807 INFO Alert received for localhost:9113
+2026-02-25 14:16:22,786 ERROR ===== FAILED =====
+2026-02-25 14:16:22,786 ERROR 
+2026-02-25 14:16:22,786 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:22,786 ERROR ===== END =====
+2026-02-25 14:16:22,786 INFO 127.0.0.1 - - [25/Feb/2026 14:16:22] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:16:34,111 INFO Alert received for localhost:9113
+2026-02-25 14:16:34,851 ERROR ===== FAILED =====
+2026-02-25 14:16:34,851 ERROR 
+2026-02-25 14:16:34,851 ERROR [WARNING]: Could not match supplied host pattern, ignoring: localhost:9113
+[ERROR]: Specified inventory, host pattern and/or --limit leaves us with no hosts to target.
+
+2026-02-25 14:16:34,851 ERROR ===== END =====
+2026-02-25 14:16:34,852 INFO 127.0.0.1 - - [25/Feb/2026 14:16:34] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-02-25 14:20:17,720 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:20:17,721 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:20:51,467 INFO Alert received for localhost:9113
+2026-02-25 14:20:56,938 INFO ===== SUCCESS =====
+2026-02-25 14:20:56,938 INFO 
+PLAY [start Nginx] *************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Nginx start] *************************************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+
+2026-02-25 14:20:56,938 INFO ===== END =====
+2026-02-25 14:20:56,938 INFO 127.0.0.1 - - [25/Feb/2026 14:20:56] "POST /webhook HTTP/1.1" 200 -
+2026-02-25 14:30:51,192 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:30:51,192 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:42:29,294 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:42:29,296 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:45:13,071 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 14:45:13,071 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 14:45:35,967 INFO 127.0.0.1 - - [25/Feb/2026 14:45:35] "[31m[1mGET /webhook HTTP/1.1[0m" 405 -
+2026-02-25 14:45:37,527 INFO 127.0.0.1 - - [25/Feb/2026 14:45:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-25 19:32:00,872 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 19:32:00,879 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 19:34:08,656 INFO 127.0.0.1 - - [25/Feb/2026 19:34:08] "[31m[1mGET /webhook HTTP/1.1[0m" 405 -
+2026-02-25 19:36:05,101 INFO Alert: nginx-stopped, Status: firing
+2026-02-25 19:36:05,102 INFO Alert received for localhost:9113
+2026-02-25 19:36:11,579 INFO ===== SUCCESS =====
+2026-02-25 19:36:11,579 INFO 
+PLAY [start Nginx] *************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Nginx start] *************************************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+
+2026-02-25 19:36:11,579 INFO ===== END =====
+2026-02-25 19:36:11,593 INFO 127.0.0.1 - - [25/Feb/2026 19:36:11] "POST /webhook HTTP/1.1" 200 -
+2026-02-25 19:45:13,570 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-02-25 19:45:13,570 INFO [33mPress CTRL+C to quit[0m
+2026-02-25 19:48:04,928 INFO Alert: nginx-stopped, Status: firing
+2026-02-25 19:48:04,938 INFO Alert received for localhost:9113
+2026-02-25 19:48:11,924 INFO ===== SUCCESS =====
+2026-02-25 19:48:11,924 INFO 
+PLAY [start Nginx] *************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Nginx start] *************************************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+
+2026-02-25 19:48:11,924 INFO ===== END =====
+2026-02-25 19:48:11,924 INFO 127.0.0.1 - - [25/Feb/2026 19:48:11] "POST /webhook HTTP/1.1" 200 -
+2026-02-25 19:53:04,874 INFO Alert: nginx-stopped, Status: firing
+2026-02-25 19:53:04,874 INFO Alert received for localhost:9113
+2026-02-25 19:53:08,255 INFO ===== SUCCESS =====
+2026-02-25 19:53:08,256 INFO 
+PLAY [start Nginx] *************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Nginx start] *************************************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+
+2026-02-25 19:53:08,256 INFO ===== END =====
+2026-02-25 19:53:08,256 INFO 127.0.0.1 - - [25/Feb/2026 19:53:08] "POST /webhook HTTP/1.1" 200 -
